@@ -1,7 +1,7 @@
 # Akhila_Matlab
 My MATLAB Assignments
 
-This is my first matlab assignment
+This is my first matlab assignment.
 
 In this we need to do some tasks such as
 1. read an image
