@@ -1,11 +1,3 @@
-Assignment 1
-
-Table of Contents
-Read an image into workspace variable
-Display the image
-Apply image processing filters to the image
-Display the result
-Saving the resulting image to a .png file
 
 # Read an image
 % reading an image
@@ -29,10 +21,3 @@ figure, imshow(final);
 % saving the result
 imwrite(final,'result.png')
 
-LAPLACIAN FILTER : 
-This filter highlights the edges and detects the transitions of the images which are having sudden intensity.
-MOTION FILTER :
-This filter is used to blur the images according to our requirements based on the given length. 
-
-GITHUB LINK
-https://github.com/akhilabuddhi/Akhila_Matlab
